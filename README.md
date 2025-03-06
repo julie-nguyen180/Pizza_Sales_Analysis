@@ -1,7 +1,7 @@
 # Pizza_Sales_Analysis
 This project aims to uncover key business insights for a pizza manufacturing and distribution company from transaction data recorded. By analyzing sales trends, product performance, customer purchasing behavior, and ingredient usage, the goal is to provide actionable recommendations to optimize operations and drive revenue growth.
 
-## Key Tasks & Methodology:
+## Key Tasks & Methodology
 - Data Cleaning & Preparation: Used PowerQuery to clean, filter, and transform transaction data.
 - Sales Trend Analysis: Identified daily, weekly, and monthly sales trends, highlighting peak periods and seasonal fluctuations. Recognized high-performing time slots and significant sales drops to inform promotional strategies.
 - Product Performance Evaluation: Ranked top-performing and low-performing pizzas based on sales volume and revenue. Assessed the impact of pizza size on sales and category-wise performance.
